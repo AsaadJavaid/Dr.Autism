@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-drautism-staging-182827-authRole",
+      "UnauthRoleArn": "arn:aws:iam::322338721273:role/amplify-drautism-staging-182827-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::322338721273:role/amplify-drautism-staging-182827-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-drautism-staging-182827-deployment",
+      "UnauthRoleName": "amplify-drautism-staging-182827-unauthRole",
+      "StackName": "amplify-drautism-staging-182827",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:322338721273:stack/amplify-drautism-staging-182827/f2de2260-71a5-11ed-bd7e-0a539f3635b5",
+      "AmplifyAppId": "d2i4277c9v4tme"
+    },
+    "categories": {
+      "auth": {
+        "DrAutism": {}
+      }
+    }
+  }
+}
